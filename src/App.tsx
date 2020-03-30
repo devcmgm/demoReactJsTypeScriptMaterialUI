@@ -14,7 +14,7 @@ import BuildIcon from "@material-ui/icons/Build";
 import SvgIcon, {SvgIconProps} from "@material-ui/core/SvgIcon";
 import TabDemo from "./TabDemo";
 import {User} from "./User";
-import {connect} from "react-redux";
+
 
 
 interface ReduxProps {
